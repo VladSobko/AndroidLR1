@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Labs</string>
+    <string name="about_text">
+        <b> Name - Sobko V.</b>\n
+        <b>Group - IPZs-19-1</b>\n
+        <b>Completed - 11/03</b>
+    </string>
 </resources>
